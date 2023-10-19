@@ -2,5 +2,8 @@
 
 <p>Website with my instrumental songs playlist</p>
 
-<img src="./src/assets/Banner.jpg" alt="Banner do site"/>
+<a>
+  <img src="./src/assets/Banner.jpg" alt="Banner do site"/>
+</a>
 
+Website view: https://fuillesdautomne.vercel.app/
